@@ -1,0 +1,65 @@
+newmtl lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Morado.jpg
+Ni 1.00
+newmtl lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textura.jpg
+Ni 1.00
+newmtl lmp005:lmp005_black_pla
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 32.00
+newmtl lmp005:lmp005_glow
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.40 0.40 0.40
+map_Kd LMP00501.jpg
+Ni 1.00
+Ks 0.78 0.78 0.78
+Ns 4.00
+newmtl lmp005:lmp005_light__Vr
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.10 0.10 0.10
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 128.00
+newmtl lmp005:lmp005_metall__V
+illum 4
+Kd 0.55 0.39 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 1024.00
+newmtl lmp005:lmp005_texture2_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd LMP00501.jpg
+Ni 1.00
+Ks 0.78 0.78 0.78
+Ns 11.31
+newmtl lmp005:lmp005_texture__
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd LMP00502.jpg
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 11.31
